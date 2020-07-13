@@ -1,7 +1,7 @@
-# M5Atom Breakout Board 取扱説明書
+# Breakout Board for M5ATOM 取扱説明書
 
 ## Overview
-このドキュメントは、M5Atom Breaktout Board(以下、本基板)の取り扱いに関する説明書です。
+このドキュメントは、Breaktout Board for M5ATOM(以下、本基板)の取り扱いに関する説明書です。
 
 ## 対応機種
 本基板はM5Atomシリーズの以下の製品に対応しています。
